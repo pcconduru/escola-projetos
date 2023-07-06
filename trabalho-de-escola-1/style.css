@@ -1,0 +1,30 @@
+h1{
+    color: #451a3e;
+    padding-left: 250px;
+}
+h2{
+  color: #270a33;
+  padding-left: 350px;
+}
+h3{
+  color: #3d7b80;
+  padding-left: 250px;
+}
+h4{
+  color: #77b1a9;
+  padding-left: 470px;
+}
+h5{
+  color: #b1e6d1;
+  padding-left: 250px;
+}
+p, th, td{
+  padding-right: 320px;
+  color: black;
+}
+body{
+  background-color: #fcfce2;
+}
+img{
+  height: 370px;
+}
